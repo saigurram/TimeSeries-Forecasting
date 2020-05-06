@@ -5,10 +5,15 @@
 Revenue/Sales forecasting aids any organization in understanding their cash flows. 
 
 1.They can align their performance mertics accordingly. 
+
 2.New investors can be acquired.
+
 3.new products can be launched. 
+
 4.Supply chain can optimze their operations. 
+
 4.Marketing can target their efforts. 
+
 5.Sales can work on discounts, incentives, product bundling etc. 
 
 Understanding the seasonality and the trend variations in the data helps in applying appropriate exponential smoothing techniques. 
