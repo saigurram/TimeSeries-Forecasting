@@ -18,7 +18,9 @@ Revenue/Sales forecasting aids any organization in understanding their cash flow
 
 Understanding the seasonality and the trend variations in the data helps in applying appropriate exponential smoothing techniques. 
 
-Dataset : The shampoo sales dataset used in this project can be obtained from Kaggle or from https://raw.githubusercontent.com/jbrownlee/Datasets/master/shampoo.csv.
+Dataset : 
+
+The shampoo sales dataset used in this project can be obtained from Kaggle or from https://raw.githubusercontent.com/jbrownlee/Datasets/master/shampoo.csv.
 
 The data has sales numbers for three consecutive years. Forecasting the sales with respect to time is helpful for any organization in anticipating the Revenue growth.
 
@@ -27,6 +29,10 @@ Objective:
 Forecast shampoo sales for any given period.
 
 The Sales_Forecasting pptx and pdf files contain detailed explanation on what techniques/model was used. 
+
+Model:
+
+Used augmented dickey fuller test and seasonal decompose to understand stationarity. Used first order differencing to make the series stationary. Used ARIMA model to generate time series forecasts. 
 
 Summary:
 
