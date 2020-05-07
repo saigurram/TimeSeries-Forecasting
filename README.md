@@ -18,7 +18,7 @@ Revenue/Sales forecasting aids any organization in understanding their cash flow
 
 Understanding the seasonality and the trend variations in the data helps in applying appropriate exponential smoothing techniques. 
 
-Dataset : 
+##Dataset## : 
 
 The shampoo sales dataset used in this project can be obtained from Kaggle or from https://raw.githubusercontent.com/jbrownlee/Datasets/master/shampoo.csv.
 
